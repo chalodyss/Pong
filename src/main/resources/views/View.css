@@ -1,0 +1,18 @@
+.button {
+    -fx-font-family: Consolas;
+    -fx-font-size: 30px;
+    -fx-background-radius: 15px;
+}
+
+.label {
+    -fx-font-family: Consolas;
+    -fx-font-size: 30px;
+}
+
+#board {
+    -fx-background-color: #000000;
+}
+
+#sideBar {
+    -fx-background-color: #D6DBDF;
+}
