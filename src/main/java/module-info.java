@@ -1,3 +1,5 @@
+/* Copyright (c) 2024, Charles T. */
+
 module pong {
     requires transitive javafx.graphics;
     requires javafx.controls;
