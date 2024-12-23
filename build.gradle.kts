@@ -1,3 +1,5 @@
+/* Copyright (c) 2024, Charles T. */
+
 group   = "abitodyssey.pong"
 version = "1.0.0"
 
